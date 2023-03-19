@@ -14,12 +14,12 @@ My name is Trinh Minh Hau. I am a software engineer, majoring in web interface p
 </a>
 <a href="https://github.com/TrinhMinhHau/Clock">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrinhMinhHau&repo=Clock&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrinhMinhHau&repo=Clock&theme=onedark" />
 </a>
 
 <a href="https://github.com/TrinhMinhHau/Note-App/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrinhMinhHau&repo=Note-App&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrinhMinhHau&repo=Note-App&theme=cobalt" />
 </a>    
 <a href="https://github.com/TrinhMinhHau/PlayerMusic/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -28,7 +28,7 @@ My name is Trinh Minh Hau. I am a software engineer, majoring in web interface p
 
 <a href="https://github.com/TrinhMinhHau/Weather-App/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrinhMinhHau&repo=Weather-App&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrinhMinhHau&repo=Weather-App&theme=dracula" />
 </a>    
 <a href="https://github.com/TrinhMinhHau/Website_QuanLy_Ban_Giay/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
