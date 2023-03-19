@@ -30,5 +30,5 @@ My name is Trinh Minh Hau. I am a software engineer, majoring in web interface p
 </a>    
 <a href="https://github.com/TrinhMinhHau/Website_QuanLy_Ban_Giay/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrinhMinhHau&repo=Website_QuanLy_Ban_Giay" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrinhMinhHau&repo=Website_QuanLy_Ban_Giay&theme=synthwave" />
 </a>
