@@ -8,13 +8,14 @@ My name is Trinh Minh Hau. I am a software engineer, majoring in web interface p
 
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/TrinhMinhHau/Clock">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrinhMinhHau&repo=Clock&theme=radical" />
-</a>    
 <a href="https://github.com/TrinhMinhHau/Calculator">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrinhMinhHau&repo=Calculator&theme=merko" />
+</a>
+
+<a href="https://github.com/TrinhMinhHau/Clock">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrinhMinhHau&repo=Clock&theme=radical" />
 </a>
 
 <a href="https://github.com/TrinhMinhHau/Note-App/">
